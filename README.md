@@ -68,3 +68,16 @@ struct binary_tree_s
 
 typedef struct binary_tree_s binary_tree_t;
 
+Binary Search Tree
+typedef struct binary_tree_s bst_t;
+
+AVL Tree
+typedef struct binary_tree_s avl_t;
+
+Max Binary Heap
+typedef struct binary_tree_s heap_t;
+
+Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
+
+Print Function
+A print function is provided for visualization purposes only. It’s not required to push it to your repo, and it may not be used during the correction.
